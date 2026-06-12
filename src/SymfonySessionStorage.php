@@ -1,4 +1,5 @@
 <?php
+
 namespace Golem\Auth\Storage;
 
 use Symfony\Component\HttpFoundation\Session\Session;

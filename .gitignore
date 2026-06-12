@@ -1,4 +1,5 @@
-composer.lock
-vendor
-build
+/composer.lock
+/vendor
+/build
 /coverage.clover
+/.phpunit.result.cache
